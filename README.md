@@ -91,4 +91,4 @@ Dane są zaimportowane do pliku, więc raport działa bez podłączania źróde�
 AdventureWorks to przykładowy, fikcyjny zbiór danych udostępniany przez Microsoft. Nie zawiera prawdziwych danych firm ani osób.
 
 ## Autor
-**[Twoje imię i nazwisko]** · [LinkedIn](https://linkedin.com/in/twoj-profil)
+**Grzegorz Wilkowiecki** · [LinkedIn](www.linkedin.com/in/grzegorz-wilkowiecki-471a01200)

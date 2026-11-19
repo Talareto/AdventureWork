@@ -96,4 +96,4 @@ The data is imported into the file, so the report works without connecting to an
 AdventureWorks is a fictional sample dataset published by Microsoft. It contains no real company or personal data.
 
 ## Author
-**[Your name]** · [LinkedIn](https://linkedin.com/in/your-profile)
+**Grzegorz Wilkowiecki** · [LinkedIn](www.linkedin.com/in/grzegorz-wilkowiecki-471a01200)
